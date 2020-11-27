@@ -47,7 +47,7 @@ $(document).ready(function() {
    FB.init({
      appId      : '465114530355883',
      xfbml      : true,
-     version    : 'v2.8'
+     version    : 'v9.0'
    });
    FB.AppEvents.logPageView();
  };
